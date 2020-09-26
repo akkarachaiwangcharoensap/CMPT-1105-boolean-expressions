@@ -1,4 +1,4 @@
-# CMPT 1105 Boolean Expressions
+# CMPT 1105 | Boolean Expressions
 
 Boolean Expression
 
