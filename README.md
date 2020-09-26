@@ -24,3 +24,14 @@ x = 5; # this is an assignment
 if (x == 5) # this is an equality or comparison statement
   print ('x is 5')
 ```
+
+Two Boolean Expressions
+
+`AND` Operator
+If both expressions are true, it becomes `true` else it is `false`
+
+`OR` Operator
+If one of the expression is true, it becomes `true` else it is `false`
+
+Mathematics: `2 < x < 4`
+Python: `if (x > 2 and x < 4): `
